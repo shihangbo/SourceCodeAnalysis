@@ -4,7 +4,8 @@
 ## jquery 源码分析
 > website：http://www.cnblogs.com/shihangbo/p/7955766.html
 
-####学习目标
+#### 学习目标
+
 1　　~~(21，94)     定义了一些变量和函数 jQuery = function(){}~~
 2　　~~(96，283)    jQuery.fn ：给JQ对象，添加一些方法和属性~~
 3　　~~(285，347)   extend ：jq的继承方法~~
