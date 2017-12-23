@@ -1,11 +1,8 @@
 # 源码分析
+<p>In order to write better code.</p>
 
 ## jquery 源码分析
-```bash
-> 网址：http://www.cnblogs.com/shihangbo/p/7955766.html
-```
+> website：http://www.cnblogs.com/shihangbo/p/7955766.html
 
 ## vue 源码分析
-```bash
-> 还没有开始啦...
-```
+> biubiubiu...
