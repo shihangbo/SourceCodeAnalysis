@@ -26,5 +26,14 @@
 *　　(8826)         window.jQuery = window.$ = jQuery;  
 
 
+1. taet
+2. tats
+
+1. ~~tezt~~
+2. ~~tedf~~
+
+1. <p>~~tezt~~</p>
+2. <p>~~tezt~~</p>
+
 ## vue 源码分析
 > biubiubiu...
