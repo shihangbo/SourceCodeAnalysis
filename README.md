@@ -24,7 +24,7 @@
 16. (7855，8584)   animate() ：运动的方法
 17. (8585，8792)   offset() ：位置和尺寸的方法
 18. (8804，8821)   JQ支持模块化的模式 
-19. (8826)         window.jQuery = window.$ = jQuery;
+19. (8826)         window.jQuery = window.$ = jQuery
 
 
 ## vue 源码分析
